@@ -365,6 +365,19 @@ span.info{
   padding: 15px;
 }
 
+#phoneNumber a{
+  color:chartreuse
+}
+#email a {
+  color:chartreuse;
+}
+#github a {
+  color:chartreuse;
+}
+#linkedin a {
+  color:chartreuse;
+}
+
 /*  global classes */
 
 .btn {
